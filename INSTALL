@@ -1,0 +1,9 @@
+Building ArpaCoin
+
+See doc/readme-qt.rst for instructions on building ArpaCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ArpaCoin.
+
+See doc/build-*.txt for instructions on building ArpaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ArpaCoin.
